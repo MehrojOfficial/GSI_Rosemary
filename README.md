@@ -109,4 +109,4 @@ In Phh Treble Settings:
 - For Bluetooth stability: 'Misc features' > 'Bluetooth workarounds' > 'Mediaktek' ; 
 
 SafetyNet issues (Root+Magisk):
-- Flash kdrag0n's SafetyNet fix (https://github.com/kdrag0n/safetynet-fix)
+- Flash kdrag0n's SafetyNet fix (https://github.com/kdrag0n/safetynet-fix/releases/)
