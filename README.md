@@ -95,3 +95,18 @@ fastboot erase userdata
 fastboot reboot
 ```
 **5. Complete setup and enjoy.**
+
+# Fixing issues in GSI ROM:
+
+In Phh Treble Settings:
+- For double tap to wake: enable it in 'Xiaomi features' > 'Enable DT2W' ;
+- For headphone jack: enable 'Misc features' > 'Use an alternate way to detect headsets' ;
+- If you want AOD: enable 'Misc features' > 'Force allow Always-On Display' ;
+- For brightness: enable 'Misc features' > 'Force alternative backlight scale' ;
+- For reaching lower brightness: enable 'Misc features' > 'Allows setting brightness to the lowest possible' ;
+- For smooth brightness slider: enable 'Misc features' > 'Use linear screen brightness slider' ;
+- For Bluetooth audio enable: 'Misc features' > 'Force-disable A2DP offload' ; 
+- For Bluetooth stability: 'Misc features' > 'Bluetooth workarounds' > 'Mediaktek' ; 
+
+SafetyNet issues (Root+Magisk):
+- Flash kdrag0n's SafetyNet fix (https://github.com/kdrag0n/safetynet-fix)
