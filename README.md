@@ -1,4 +1,4 @@
-# GSI INSTALLIATION PROCESS
+# GSI INSTALLATION PROCESS
 Everything to boot any GSI on Redmi Note 10S/11 SE India/Poco M5S
 
 ### ⚠️ If you are stuck on some step re-register drivers (Except one mentioned to take a certain amount of time)
