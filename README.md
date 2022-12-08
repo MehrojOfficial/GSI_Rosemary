@@ -6,6 +6,7 @@ Everything to boot any GSI on Redmi Note 10S/11 SE India/Poco M5S
 **BEFORE STARTING:**
   1. Backup all your data
   2. Choose correct GSI image
+  3. Visit here to download everything required -> [DOWNLOAD](https://www.pling.com/p/1951771/)
 
 **REQUIREMENTS:**
   1. Computer (Windows is preffered)
