@@ -78,7 +78,7 @@ fastboot delete-logical-partition product_a
 fastboot create-logical-partition product_a 1000
 ```
 ```
-fastboot flash product product_gsi.img
+fastboot flash product product-gsi.img
 ```
 
 Next process a takes certain amount of time. Sit back and relax.
