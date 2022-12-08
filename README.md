@@ -1,6 +1,8 @@
 # GSI INSTALLIATION PROCESS
 Everything to boot any GSI on Redmi Note 10S/11 SE India/Poco M5S
 
+### ⚠️ If you are stuck on some step re-register drivers (Except one mentioned to take a certain amount of time)
+
 **BEFORE STARTING:**
   1. Backup all your data
   2. Choose correct GSI image
@@ -67,12 +69,28 @@ Everything to boot any GSI on Redmi Note 10S/11 SE India/Poco M5S
 
 ```
 fastboot reboot fastboot
+```
+```
 fastboot delete-logical-partition product_a
+```
+```
 fastboot create-logical-partition product_a 1000
+```
+```
 fastboot flash product product_gsi.img
+```
+
+Next process a takes certain amount of time. Sit back and relax.
+```
 fastboot flash system gsi.img
+```
+```
 fastboot -w
+```
+```
 fastboot erase userdata
+```
+```
 fastboot reboot
 ```
 **5. Complete setup and enjoy.**
