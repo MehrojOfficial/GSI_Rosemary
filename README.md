@@ -16,6 +16,7 @@ Everything to boot any GSI on Redmi Note 10S/11 SE India/Poco M5S
   5. Unlimited patience
 
 **Which firmware to use:**
+(You need to flash stock ROM before starting)
   - MIUI 12.5 -> Android 11/12/12L/13 (preffered to avoid bugs)
   - MIUI 13 -> Android 12/12L/13
   
@@ -81,7 +82,7 @@ fastboot create-logical-partition product_a 1000
 fastboot flash product product-gsi.img
 ```
 
-Next process a takes certain amount of time. Sit back and relax.
+Next process takes a certain amount of time. Sit back and relax.
 ```
 fastboot flash system gsi.img
 ```
